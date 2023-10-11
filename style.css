@@ -1,0 +1,222 @@
+body{
+    padding: 0;
+    margin: 0;
+    max-width: 1900px;
+}
+.header{
+    background-color: #141024;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: -100px;
+    padding: 10px;
+}
+.logo{
+    font-family: Jost;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 30px;
+    color: #fff;
+    font-weight: 700;
+}
+
+.text-logo{
+    text-decoration: none;
+    font-size: 18px;
+    margin-top: -30px;
+    color: #fff;
+    font-weight: 700;
+
+}
+.number{
+    font-family: Jost;
+    font-size: 20px;
+    margin-top: -25px;
+    margin-left: 1300px;
+    color: #fff;
+    font-weight: 700;
+
+}
+.image{
+    margin-top: 82px;
+    margin-left: 850px;
+}
+.logo-big{
+    font-family: Jost;
+    font-size: 50px;
+    margin-top: -480px;
+    margin-left: 270px;
+    color: #fff;
+    font-weight: 400;
+}
+.big-text{
+    color: #fff;
+    font-family: Jost;
+    font-size: 20px;
+    margin-left: 270px;
+    margin-top: -10px;
+}
+.btn2{
+    display: inline-block;
+    background-color: #D52027;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 700;
+    font-family: Jost;
+    padding: 25px 15px;
+    margin-top: 60px;
+    margin-left: 270px;
+}
+.td{
+    text-decoration: none;
+}
+
+.teachers{
+    font-family: Jost;
+    font-size: 20px;
+    word-spacing: 10px;
+    font-weight: normal;
+    margin-left: 270px;
+    margin-top: 40px;
+}
+
+.red{
+    color: #D52027;
+    font-family: Jost;
+    font-size: 50px;
+    font-weight: 700;
+}
+.t1{
+    font-family: Jost;
+    font-size: 20px;
+    display: inline-block
+}
+.t2{
+    font-family: Jost;
+    font-size: 20px;
+    display: inline-block
+}
+.t3{
+    font-family: Jost;
+    font-size: 20px;
+    display: inline-block
+}
+.t4{
+    font-family: Jost;
+    font-size: 20px;
+    display: inline-block
+}
+.ttt{
+    margin-top: 20px;
+    margin-left: 270px;
+    
+}
+.header-course{
+    font-family: Jost;
+    font-size: 40px;
+    font-weight: 550;
+}
+.t-1{
+    font-family: Jost;
+    font-size: 20px;
+    display: inline-block
+}
+.head{
+    font-size: 25px;
+
+}
+.ttt2{
+
+    align-content: center;
+    margin-left: 270px;
+}
+.bg{
+    background-color: #F9F9F9;
+}
+.h-tr{
+    font-family: Jost;
+    font-size: 40px;
+    font-weight: 550;
+    text-align: center;
+
+}
+.png1{
+    font-family: Jost;
+    font-size: 18px;
+    display: inline-block;
+    padding: 5px;
+    margin-left: 70px;
+}
+.txt{
+    font-family: Jost;
+    font-size: 37px;
+    font-weight: 600;
+    margin-left: 70px;
+}
+.b-1{
+    font-family: Jost;
+    font-size: 20px;
+    border-width: 1.5px;
+    border-style: solid;
+    border-color: #9b9b9b;
+    display: inline-block;
+    padding: 20px;
+    margin-left: 60px;
+    border-radius: 10%;
+}
+.btn1{
+    display: inline-block;
+    background-color: #D52027;
+    color: #ffffff;
+    text-decoration: none;
+    font-family: Jost;
+    padding: 15px 5px;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 10%;
+    border-width: 1.5px;
+    border-style: solid;
+    border-color: #D52027;
+}
+.registration{
+    width: 300px;
+    padding: 32px;
+    border-radius: 10px;
+    box-shadow: 0 4px 16px #ccc;
+    font-family: Jost;
+    letter-spacing: 1px;
+    margin-left: 900px;
+    margin-top: -180px;
+}
+.tttxt{
+    font-family: Jost;
+    font-size: 30px;
+    margin-bottom: 50px;
+    margin-left: 250px;
+}
+.big{
+    font-family: Jost;
+    margin-left: 100px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+}
+.small{
+    font-family: Jost;
+    margin-left: 100px;
+    font-size: 17px;
+    color: #fff;
+}
+.end{
+    background-color: #141024;
+    padding: 40px;
+}
+.num{
+    font-family: Jost;
+    margin-left: 1200px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+    margin-top: -60px;
+
+
+}
